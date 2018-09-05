@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="6b6798bbf0327818f4b94b98377cba6c9dcd2e78" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
-        <target state="new">Die hochgeladene Datei überschreitet die maximale Größe von MAX_FILE_SIZE, welche durch das HTML Formular festgelegt wurde</target>
+        <target state="new">Die hochgeladene Datei überschreitet die maximale Größe von MAX_FILE_SIZE, welche durch das HTML Formular festgelegt wurde</target>r
       </trans-unit>
       <trans-unit id="b2462aa0c80f72abbe506243d1c98bae643249c9" resname="The uploaded file exceeds the post_max_size directive in php.ini">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
